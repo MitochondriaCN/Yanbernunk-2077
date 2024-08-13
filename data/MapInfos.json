@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"传送之间","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"传送之间","order":1,"parentId":0,"scrollX":811,"scrollY":513},
 {"id":2,"expanded":true,"name":"学校","order":2,"parentId":1,"scrollX":1132,"scrollY":759},
 {"id":3,"expanded":true,"name":"商业区","order":3,"parentId":2,"scrollX":869,"scrollY":600},
 {"id":4,"expanded":true,"name":"道具商店","order":4,"parentId":3,"scrollX":819,"scrollY":448},
@@ -16,5 +16,5 @@ null,
 {"id":14,"expanded":false,"name":"摄影社","order":13,"parentId":8,"scrollX":819,"scrollY":447},
 {"id":15,"expanded":false,"name":"二号楼","order":14,"parentId":8,"scrollX":819,"scrollY":448},
 {"id":16,"expanded":false,"name":"办公室","order":15,"parentId":8,"scrollX":819,"scrollY":448},
-{"id":17,"expanded":false,"name":"训练场","order":17,"parentId":1,"scrollX":832,"scrollY":640}
+{"id":17,"expanded":false,"name":"训练场","order":17,"parentId":1,"scrollX":819,"scrollY":447}
 ]
